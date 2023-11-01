@@ -24,10 +24,8 @@
   cu = cl upload
   new = new-branch --upstream-current
 
-[http]
-	cookiefile = /usr/local/google/home/franzih/.gitcookies
 [pull]
 	rebase = true
 [user]
 	name = Franziska Hinkelmann
-	email = franzih@chromium.org
+	email = franziska.hinkelmann@gmail.com
